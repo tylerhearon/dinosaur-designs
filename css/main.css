@@ -1,0 +1,49 @@
+html {
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+  font-family: "Patua One"; cursive;
+}
+
+nav {
+  font-family: "Patua One"; cursive;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: .8rem;
+}
+
+.hadrosaurcap {
+  font-size:.9rem;
+}
+
+a,
+a:link {
+  color: #793284;
+}
+
+a:visited {
+  color: #b42885;
+}
+
+a:hover {
+  color: #b42885;
+}
+
+a:focus {
+  color: #793284;
+}
+
+a:active {
+  color: #793284;
+}
