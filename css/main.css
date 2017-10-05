@@ -17,6 +17,11 @@ nav {
   font-family: "Patua One"; cursive;
 }
 
+li {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
 figcaption {
   font-style: italic;
   text-align: center;
@@ -24,7 +29,7 @@ figcaption {
 }
 
 .hadrosaurcap {
-  font-size:.9rem;
+  font-size:1.2rem;
 }
 
 a,
