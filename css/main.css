@@ -1,6 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 img {
@@ -17,6 +18,11 @@ nav {
   font-family: "Patua One", cursive;
 }
 
+ol {
+  list-style-type: none;
+
+}
+
 li {
   font-weight: bold;
   font-size: 1.125rem;
@@ -29,7 +35,7 @@ figcaption {
 }
 
 .hadrosaurcap {
-  font-size: .9rem;
+  font-size: 1rem;
 }
 
 a,
